@@ -8,7 +8,7 @@ function App() {
     <div>
         <Router>
           <Switch>
-            <Route exact path="/main" component={Main}/>
+            <Route exact path="/dev_bekzat" component={Main}/>
           </Switch>
         </Router>
     </div>
