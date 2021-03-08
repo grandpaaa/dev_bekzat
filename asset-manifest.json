@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dev_bekzat/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dev_bekzat/static/js/main.76f1890c.chunk.js",
+    "main.js.map": "/dev_bekzat/static/js/main.76f1890c.chunk.js.map",
+    "runtime-main.js": "/dev_bekzat/static/js/runtime-main.145239f7.js",
+    "runtime-main.js.map": "/dev_bekzat/static/js/runtime-main.145239f7.js.map",
+    "static/js/2.1d1b2343.chunk.js": "/dev_bekzat/static/js/2.1d1b2343.chunk.js",
+    "static/js/2.1d1b2343.chunk.js.map": "/dev_bekzat/static/js/2.1d1b2343.chunk.js.map",
+    "static/js/3.a2e59013.chunk.js": "/dev_bekzat/static/js/3.a2e59013.chunk.js",
+    "static/js/3.a2e59013.chunk.js.map": "/dev_bekzat/static/js/3.a2e59013.chunk.js.map",
+    "index.html": "/dev_bekzat/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dev_bekzat/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1d1b2343.chunk.js.LICENSE.txt": "/dev_bekzat/static/js/2.1d1b2343.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dev_bekzat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.145239f7.js",
+    "static/js/2.1d1b2343.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.76f1890c.chunk.js"
+  ]
+}
