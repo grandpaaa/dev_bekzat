@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.main_back{
+    height: 100vh;
+    background: #1c1b1b;
+}
+
+.main_content{
+    padding: 0 50px;
+    position: absolute;
+    width: 100%;
+    top: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons ul li{
+    font-size: 1.8em;
+    color: #9e9d9d;
+    transition: 0.5s;
+}
+
+.icons ul li:hover{
+    color: #fff;
+}
