@@ -1,18 +1,21 @@
 import logo from './logo.svg';
 import 'antd/dist/antd.css';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
+import {BrowserRouter} from 'react-router-dom'
 import Main from './container/main'
 import About from './container/about'
 
 function App() {
   return (
     <div>
+      <BrowserRouter>
         <Router>
           <Switch>
             <Route exact path="/dev_bekzat" component={Main}/>
             <Route exact path="/about" component={About}/>
           </Switch>
         </Router>
+      </BrowserRouter>
     </div>
   );
 }
