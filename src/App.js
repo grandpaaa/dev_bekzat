@@ -10,7 +10,7 @@ function App() {
         <Router>
           <Switch>
             <Route exact path="/dev_bekzat" component={Main}/>
-            <Route exact path="/about" component={About}/>
+            <Route exact path="/about" component={Main}/>
           </Switch>
         </Router>
     </div>
