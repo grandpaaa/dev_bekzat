@@ -18,7 +18,7 @@ function Header() {
             <div className={toggle ? 'active menu-overlay' : 'menu-overlay'}>
                 <ul>
                     <li data-text="Home"><a href="/dev_bekzat">Home</a></li>
-                    <li data-text="About"><a href="/about">About</a></li>
+                    <li data-text="About"><a href="/dev_bekzat/about">About</a></li>
                     <li data-text="Portfolio"><a href="/about">Portfolio</a></li>
                     <li data-text="Contacts"><a href="/contacts">Contacts</a></li>
                 </ul>
